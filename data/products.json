@@ -1,0 +1,67 @@
+[
+  {
+    "id": 6,
+    "name": "Classic",
+    "cat_id": 2,
+    "price": "22.00",
+    "remote_url": "https://i.ibb.co/bLNXNBh/gallery00.png",
+    "local_url": "/img/Awesone/gallery00.png"
+  },
+  {
+    "id": 7,
+    "name": "Grain rice",
+    "cat_id": 2,
+    "price": "18.00",
+    "remote_url": "https://i.ibb.co/FgmWjr1/gallery04.png",
+    "local_url": "/img/Awesone/gallery04.png"
+  },
+  {
+    "id": 8,
+    "name": "Tortilla",
+    "cat_id": 2,
+    "price": "13.00",
+    "remote_url": "https://i.ibb.co/k4VcFbn/gallery05.png",
+    "local_url": "/img/Awesone/gallery05.png"
+  },
+  {
+    "id": 9,
+    "name": "Mushroom salad",
+    "cat_id": 3,
+    "price": "10.00",
+    "remote_url": "https://i.ibb.co/qNKy9DN/gallery01.png",
+    "local_url": "/img/Resopnsive/gallery01.png"
+  },
+  {
+    "id": 10,
+    "name": "Egg Benedict",
+    "cat_id": 3,
+    "price": "13.00",
+    "remote_url": "https://i.ibb.co/rmD60zP/gallery06.png",
+    "local_url": "/img/Resopnsive/gallery06.png"
+  },
+  {
+    "id": 11,
+    "name": "Noodels",
+    "cat_id": 4,
+    "price": "10.00",
+    "remote_url": "https://i.ibb.co/7bCxhbW/gallery02.png",
+    "local_url": "/img/Creative/gallery02.png"
+  },
+  {
+    "id": 12,
+    "name": "fettuccine",
+    "cat_id": 5,
+    "price": "18.00",
+    "remote_url": "https://i.ibb.co/cNWxnRX/gallery03.png",
+    "local_url": "/img/Animated/gallery03.png"
+  },
+  {
+    "id": 13,
+    "name": "Rice",
+    "cat_id": 5,
+    "price": "9.00",
+    "remote_url": "https://i.ibb.co/fF4B7vh/gallery07.png",
+    "local_url": "/img/Animated/gallery07.png"
+  }
+  
+]

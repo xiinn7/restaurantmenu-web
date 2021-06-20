@@ -1,0 +1,42 @@
+[
+  {
+    "cid": 1,
+    "name": "All",
+    "size": null,
+    "remote_url": "https://i.ibb.co/bLNXNBh/gallery00.png",
+    "local_url": "/img/All/gallery00.png",
+    "link_url": "/shop/all"
+  },
+  {
+    "cid": 2,
+    "name": "Awesome",
+    "size": null,
+    "remote_url": "https://i.ibb.co/FgmWjr1/gallery04.png",
+    "local_url": "/img/Awesome/gallery04.png",
+    "link_url": "/shop/awesome"
+  },
+  {
+    "cid": 3,
+    "name": "Responsive",
+    "size": null,
+    "remote_url": "https://i.ibb.co/qNKy9DN/gallery01.png",
+    "local_url": "/img/Responsive/gallery01.png",
+    "link_url": "/shop/responsive"
+  },
+  {
+    "cid": 4,
+    "name": "Creative",
+    "size": "large",
+    "remote_url": "https://i.ibb.co/7bCxhbW/gallery02.png",
+    "local_url": "/img/Creative/gallery02.png",
+    "link_url": "/shop/creative"
+  },
+  {
+    "cid": 5,
+    "name": "Animated",
+    "size": "large",
+    "remote_url": "https://i.ibb.co/cNWxnRX/gallery03.png",
+    "local_url": "/img/Animated/gallery03.png",
+    "link_url": "/shop/animated"
+  }
+]
